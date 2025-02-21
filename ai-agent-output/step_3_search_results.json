@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.noon.com/egypt-en/nespresso/",
+      "product_title": "NESPRESSO Essenza Mini 0.6 L 1310 W D030RE/EN85.R Red",
+      "product_image_url": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png",
+      "product_url": "https://www.noon.com/egypt-en/essenza-mini-0-6-l-1310-w-d030re-en85-r-red/N12520634A/p/?o=f78422ad4bd15a7a",
+      "product_current_price": 11000.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Capacity",
+          "specification_value": "0.6 L"
+        },
+        {
+          "specification_name": "Power",
+          "specification_value": "1310 W"
+        },
+        {
+          "specification_name": "Color",
+          "specification_value": "Red"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Compact design",
+        "Good for small spaces"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/mlp-delonghi-coffee-machine/",
+      "product_title": "Delonghi Dedica Espresso Coffee Machine, Silver EC685.M",
+      "product_image_url": "https://www.jumia.com.eg/delonghi-dedica-espresso-coffee-machine-silver-ec685.m-118954993.html",
+      "product_url": "https://www.jumia.com.eg/delonghi-dedica-espresso-coffee-machine-silver-ec685.m-118954993.html",
+      "product_current_price": 8990.0,
+      "product_original_price": 9100.0,
+      "product_discount_percentage": 1.0,
+      "product_specs": [
+        {
+          "specification_name": "Brand",
+          "specification_value": "De'Longhi"
+        },
+        {
+          "specification_name": "Model",
+          "specification_value": "EC685.M"
+        },
+        {
+          "specification_name": "Color",
+          "specification_value": "Silver"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Highly rated with 5 out of 5 stars.",
+        "Currently on discount."
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/espresso-machines/brand-delonghi/",
+      "product_title": "Delonghi Dedica Espresso Coffee Machine, Silver EC685.M",
+      "product_image_url": "https://www.jumia.com.eg/delonghi-dedica-espresso-coffee-machine-silver-ec685.m-118954993.html",
+      "product_url": "https://www.jumia.com.eg/delonghi-dedica-espresso-coffee-machine-silver-ec685.m-118954993.html",
+      "product_current_price": 8990.0,
+      "product_original_price": 9100.0,
+      "product_discount_percentage": 1.0,
+      "product_specs": [
+        {
+          "specification_name": "Rating",
+          "specification_value": "5 out of 5(2)"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Good reviews"
+      ]
+    },
+    {
+      "page_url": "https://cairosales.com/en/small-appliances/delonghi-dedica-pump-espresso-coffee-machine-15-bar-ec685-bk.html",
+      "product_title": "DeLonghi Dedica Pump Espresso Coffee Machine 15 Bar EC685 BK",
+      "product_image_url": "https://cairosales.com/113638-large_default/delonghi-dedica-pump-espresso-coffee-machine-15-bar-ec685-bk.jpg",
+      "product_url": "https://cairosales.com/en/small-appliances/delonghi-dedica-pump-espresso-coffee-machine-15-bar-ec685-bk.html",
+      "product_current_price": 9499.0,
+      "product_original_price": 11175.0,
+      "product_discount_percentage": 15.0,
+      "product_specs": [
+        {
+          "specification_name": "Model",
+          "specification_value": "EC685 BK"
+        },
+        {
+          "specification_name": "Color",
+          "specification_value": "Black"
+        },
+        {
+          "specification_name": "Warrantee",
+          "specification_value": "International Warranty"
+        },
+        {
+          "specification_name": "Coffee tamper",
+          "specification_value": "Accessory"
+        },
+        {
+          "specification_name": "Weight (Kg)",
+          "specification_value": "4.2"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Discounted price",
+        "International warranty"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/xelsis-fully-automatic-espresso-coffee-machine-1-7-l-sm7683-00-black/N32598803A/p/",
+      "product_title": "Saeco Xelsis Fully Automatic Espresso Coffee Machine 1.7 L SM7683/00 Black",
+      "product_image_url": "https://f.nooncdn.com/p/v1576650542/N32598803A_1.jpg?format=jpg&width=240",
+      "product_url": "https://www.noon.com/egypt-en/saeco/xelsis-fully-automatic-espresso-coffee-machine-1-7-l-sm7683-00-black/N32598803A/p/",
+      "product_current_price": 0.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Colour Name",
+          "specification_value": "Black"
+        },
+        {
+          "specification_name": "Capacity",
+          "specification_value": "1.7 L"
+        },
+        {
+          "specification_name": "Model Number",
+          "specification_value": "SM7683/00"
+        }
+      ],
+      "agent_recommendation_rank": 2,
+      "agent_recommendation_notes": [
+        "Fully automatic",
+        "Large capacity"
+      ]
+    },
+    {
+      "page_url": "https://www.ubuy.com.eg/en/product/Q1UM240-philips-3200-series-fully-automatic-espresso-machine-w-lattego-black-ep3241-54?srsltid=AfmBOorK9M1F-9I72OMnYy1WeoyaIJRGJXq3QSn3xQDQIv35B01KY1hW",
+      "product_title": "PHILIPS 3200 Series Fully Automatic Espresso Machine - LatteGo Milk System, 5 Coffee Varieties, Intuitive Touch Display, 100% Ceramic Grinder, AquaClean Filter, Black EP324154",
+      "product_image_url": "https://m.media-amazon.com/images/I/71fePdNXx2L._AC_SL1500_.jpg",
+      "product_url": "https://www.ubuy.com.eg/en/product/Q1UM240-philips-3200-series-fully-automatic-espresso-machine-w-lattego-black-ep3241-54?srsltid=AfmBOorK9M1F-9I72OMnYy1WeoyaIJRGJXq3QSn3xQDQIv35B01KY1hW",
+      "product_current_price": 21.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Brand",
+          "specification_value": "Philips"
+        },
+        {
+          "specification_name": "Model",
+          "specification_value": "3200 Series"
+        },
+        {
+          "specification_name": "Type",
+          "specification_value": "Fully Automatic Espresso Machine"
+        },
+        {
+          "specification_name": "Milk System",
+          "specification_value": "LatteGo"
+        },
+        {
+          "specification_name": "Coffee Varieties",
+          "specification_value": "5"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "LatteGo milk system",
+        "Fully automatic"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/barista-espresso-machine-1700-0-w-bes870-black/N14047025A/p/",
+      "product_title": "Barista Espresso Machine 1700.0 W BES870 Black",
+      "product_image_url": "https://f.nooncdn.com/p/v1635188547/N14047025A_1.jpg?format=avif&width=240",
+      "product_url": "https://www.noon.com/egypt-en/breville/",
+      "product_current_price": 0.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Stainless Steel"
+        },
+        {
+          "specification_name": "Installation",
+          "specification_value": "Countertop"
+        },
+        {
+          "specification_name": "Colour Name",
+          "specification_value": "Black"
+        },
+        {
+          "specification_name": "Energy Used",
+          "specification_value": "Electric"
+        },
+        {
+          "specification_name": "Wattage",
+          "specification_value": "1700 W"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Stainless steel",
+        "High wattage"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/barista-espresso-machine-1700w-2-0-l-1700-0-w-bes870crn-cranberry/N30157259A/p/",
+      "product_title": "Breville Barista Espresso Machine 1700W 2.0 L 1700.0 W BES870CRN Cranberry",
+      "product_image_url": "https://f.nooncdn.com/p/v1607612986/N30157259A_1.jpg?format=jpg&width=240",
+      "product_url": "https://www.noon.com/egypt-en/breville/",
+      "product_current_price": null,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Stainless Steel"
+        },
+        {
+          "specification_name": "Installation",
+          "specification_value": "Freestanding"
+        },
+        {
+          "specification_name": "Colour Name",
+          "specification_value": "Cranberry"
+        },
+        {
+          "specification_name": "Product Length",
+          "specification_value": "40.7 cm"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Stainless steel",
+        "High wattage"
+      ]
+    }
+  ]
+}
