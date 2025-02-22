@@ -3,33 +3,32 @@
 ## Overview
 An AI-powered system designed to recommend products by automating search, scraping, and comparison. Built with **CrewAI**, **AgentOps**, **Tavily**, and **ScrapeGraphAI**, it performs the following tasks:
 
-1. **Query Generation**: Creates optimized search terms from user input.
-2. **Product Search**: Finds products across multiple e-commerce platforms.
-3. **Data Scraping**: Extracts detailed product information such as price, features, and ratings.
-4. **Report Generation**: Compares products and highlights the best deals.
+- **Query Generation**: Creates optimized search terms from user input.
+- **Product Search**: Finds products across multiple e-commerce platforms.
+- **Data Scraping**: Extracts detailed product information such as price, features, and ratings.
+- **Report Generation**: Compares products and highlights the best deals.
 
 ## Key Features
-- **Multi-agent workflow** for seamless task execution.
-- Scrapes and analyzes data from **multiple e-commerce platforms**.
-- Generates **user-friendly comparison reports**.
+- 🔄 **Multi-agent workflow** for seamless task execution.
+- 🔍 **Scrapes and analyzes data** from multiple e-commerce platforms.
+- 📊 **Generates user-friendly comparison reports** to assist in decision-making.
 
 ## How It Works
+1. **User Input**: The user provides a description or name of the product they are looking for.
+2. **Query Generation**: The first agent processes the user input and generates optimized search queries and keywords.
+3. **Product Search**: The second agent uses the generated queries to search for products across multiple e-commerce platforms.
+4. **Data Scraping**: The third agent scrapes detailed product information (e.g., price, features, reviews) from the identified websites.
+5. **Report Generation**: The final agent compiles the scraped data into a comparison report, highlighting the best deals and key differences between products.
 
-### 1. User Input
-The user provides a description or name of the product they are looking for.
+## Technologies Used
+- **CrewAI** - Orchestrates multi-agent collaboration
+- **AgentOps** - Manages and monitors AI agents
+- **Tavily** - Automates search and data retrieval
+- **ScrapeGraphAI** - Extracts structured data from web sources
 
-### 2. Query Generation
-The first agent processes the user input and generates optimized search queries and keywords.
 
-### 3. Product Search
-The second agent uses the generated queries to search for products across multiple e-commerce platforms.
 
-### 4. Data Scraping
-The third agent scrapes detailed product information (e.g., price, features, reviews) from the identified websites.
 
-### 5. Report Generation
-The final agent compiles the scraped data into a comparison report, highlighting the best deals and key differences between products.
-#
 
 # Generated report exmple
 
